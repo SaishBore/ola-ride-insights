@@ -2,7 +2,7 @@
 
 An end-to-end analytics project on Ola ride-sharing data (July 2024): data cleaning in Python, analysis in SQL, an interactive Power BI dashboard, and a Streamlit web app.
 
-- **Live app:** `- **Live app:** https://ola-ride-insights-02.streamlit.app/`
+- **Live app:** `https://ola-ride-insights-02.streamlit.app/`
 - **Dataset:** 103,024 bookings, 1 to 31 July 2024
 
 ## Tech stack
